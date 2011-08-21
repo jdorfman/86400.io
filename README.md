@@ -1,10 +1,12 @@
-# jQuery File Upload Plugin
+Hello and welcome to the 86400.io framework.  You are minutes away from launching your very own Temporary 24 Hour File Hosting Web App!
+
+This project was forked via: https://github.com/blueimp/jQuery-File-Upload
+
+Make sure to chmod 777 app/files && app/thumbnails
 
 ## Demo
-[Demo File Upload](http://aquantum-demo.appspot.com/file-upload)
+[Demo File Upload](http://www.86400.io)
 
-## Setup instructions
-[How to setup the plugin on your website](https://github.com/blueimp/jQuery-File-Upload/wiki/Setup)
 
 ## Features
 * **Multiple file upload:**  
@@ -57,14 +59,3 @@ The UI version of the File Upload plugin also requires the jQuery UI Progressbar
 Drag & Drop is only supported on Google Chrome, Firefox 4.0+ and Safari 5.0+.  
 Microsoft Internet Explorer has no support for multiple file selection or upload progress.  
 [Extended browser support information](https://github.com/blueimp/jQuery-File-Upload/wiki/Browser-support).
-
-## License
-Released under the [MIT license](http://creativecommons.org/licenses/MIT/).
-
-## Source Code & Download
-* Browse and checkout the [source code](https://github.com/blueimp/jQuery-File-Upload).
-* [Download](https://github.com/blueimp/jQuery-File-Upload/archives/master) the project to add the plugin to your website.
-
-## Documentation & Support
-* Documentation can be found on the [Project Wiki](https://github.com/blueimp/jQuery-File-Upload/wiki).
-* Support requests and bug reports can be posted to the [Issue Tracker](https://github.com/blueimp/jQuery-File-Upload/issues).
