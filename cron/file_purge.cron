@@ -1,0 +1,2 @@
+*/5 * * * *	/usr/bin/find /var/www/vhosts/86400.io/httpdocs/beta03/app/files/* -type f -mmin +1440 -delete >/dev/null 2>&1
+*/5 * * * *	/usr/bin/find /var/www/vhosts/86400.io/httpdocs/beta03/app/thumbnails/* -type f -mmin +1440 -delete >/dev/null 2>&1
