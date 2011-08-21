@@ -3,8 +3,9 @@ Hello and welcome to the 86400.io framework.  You are minutes away from launchin
 This project was forked via: https://github.com/blueimp/jQuery-File-Upload
 
 Make sure to:
- * chmod 777 app/files && app/thumbnails
- * Install the cronjob (cat file_purge.cron)
+ * **chmod 777 app/files && app/thumbnails**
+
+ * **Install the cronjob (cat file_purge.cron)**
 
 ## Demo
 [Demo File Upload](http://www.86400.io)
