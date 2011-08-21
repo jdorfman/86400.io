@@ -1,3 +1,5 @@
 Hello and welcome to the 86400.io framework.  You are minutes away from launching your very own Temporary 24 Hour File Hosting Web App!
 
 This project was forked via: https://github.com/blueimp/jQuery-File-Upload
+
+Make sure to chmod 777 app/files && app/thumbnails
